@@ -3,8 +3,7 @@ count = 0
 while count < array.length do
    array[count] == value_to_find
   return count
-  count += 1
 end
-
+count += 1
   # Add your solution here
 end
