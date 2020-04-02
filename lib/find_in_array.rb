@@ -4,6 +4,7 @@ while count < array.length do
    array[count] == value_to_find
   return count
 end
-count = count += 1
+count += 1
   # Add your solution here
+end
 end
