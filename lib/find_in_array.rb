@@ -5,6 +5,6 @@ while count < array.length do
   value_to_find = index
   count += 1
 end
-index
+find_element_index
   # Add your solution here
 end
